@@ -24,6 +24,5 @@ void main(List<String> arguments) {
     "email": "harshk@domain.com"
   });
 
-  print("\nRemoving the 'email' field:");
   students.remove('email');
 }
